@@ -1,0 +1,7 @@
+# Arquivos compilados do Java
+*.class
+
+# IDEs
+.vscode/
+.idea/
+nbproject/private/
